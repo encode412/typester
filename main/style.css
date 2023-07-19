@@ -48,7 +48,7 @@ select:focus, button:focus{
     width: 100%;
     background: rgba(0, 0, 0, 0.3);
     color: #fff;
-    height: 70px;
+    height: 85px;
     display: flex;
     justify-content: space-between;
     align-items: center;
